@@ -13,5 +13,5 @@ Gatsby is een populaire static site generator, waarbij we bestaande data (Markdo
 - Slides: [Speaker Deck](https://speakerdeck.com/g00glen00b/from-wordpress-to-gatsby)
 - Moeilijkheidsgraad: Beginner
 - Type: Development talk
-- Vereiste kennis: Basic frontend knowledge (HTML, JavaScript)
+- Vereiste kennis: Frontend basiskennis (HTML, JavaScript)
 - Technologieën: Gatsby, GraphQL, React, HTML, JavaScript

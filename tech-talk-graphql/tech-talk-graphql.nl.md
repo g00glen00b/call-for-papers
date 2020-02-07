@@ -13,5 +13,5 @@ Tijdens deze talk zal de basis van GraphQL besproken worden. We starten met het 
 - Slides: [Speaker Deck](https://speakerdeck.com/g00glen00b/graphql)
 - Moeilijkheidsgraad: Beginner
 - Type: Development talk
-- Vereiste kennis: Basic Java knowledge
+- Vereiste kennis: Basiskennis Java
 - Technologieën: GraphQL, Java, Spring, Spring boot 
