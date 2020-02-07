@@ -6,7 +6,7 @@ Gatsby is een populaire static site generator, waarbij we bestaande data (Markdo
 
 ## Informatie
 
-- Lengte: 45 minutes
+- Lengte: 45 minuten
     - 15 minutes intro
     - 20 minutes live coding
     - 10 minutes outro
