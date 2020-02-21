@@ -15,5 +15,4 @@ jobs:
           date-format: 'yyyy-mm-dd hh:MM'
       - name: Debug
         id: debug-info
-        run: 'echo "Time = ${{ steps.get-time.outputs.date }}"
-
+        run: 'echo "Time = ${{ steps.get-time.outputs.date }}"'
